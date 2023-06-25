@@ -1,0 +1,9 @@
+*{
+  padding: 0px;
+  margin:  0px;
+  font-family: 'Kanit', sans-serif;
+  font-weight:bolder;
+}
+.bg-info {
+  background-color: #2d5280!important;
+}
